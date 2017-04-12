@@ -1,6 +1,6 @@
 # Preactlleta
 
-**Implementación del cálculo de [Boletta](http://silogismo.com/bolettta/) con la librería [Preat](https://preactjs.com/).**
+**Implementación del cálculo de [Boletta](http://silogismo.com/bolettta/) con la librería [Preact](https://preactjs.com/).**
 
 > Demo realizado para BeerJS Santiago edición Abril 2017
 
